@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ISTQB-500</string>
+    <string name="action_settings">Settings</string>
+    <string name="closeApplication">Close</string>
+
+    <string name="title_activity_test_paper">TestPaper</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_choose_question">choose_question</string>
+    <string name="title_activity_show_question_result">ShowQuestionResult</string>
+    <string name="title_activity_bar_charts">BarCharts</string>
+    <string name="title_activity_about_istqb">AboutISTQB</string>
+    <string name="title_activity_contact_us">ContactUs</string>
+    <string name="title_activity_app_audience">AppAudience</string>
+    <string name="title_activity_product_info">ProductInfo</string>
+</resources>

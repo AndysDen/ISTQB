@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.istqb.anandsoni.multichoicequest.Instruction">
+    <item
+        android:id="@+id/aboutIsqtb"
+        android:orderInCategory="100"
+        android:title="About ISTQB"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/productInfo"
+        android:orderInCategory="100"
+        android:title="Product Info"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contactUS"
+        android:orderInCategory="100"
+        android:title="Contact Us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/faceBookUs"
+        android:orderInCategory="100"
+        android:title="Like us on Facebook"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/closeApplication"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="never" />
+
+
+</menu>
+
+

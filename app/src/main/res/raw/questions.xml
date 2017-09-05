@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <category name="one">
+
+        <question>
+            <q>From a Testing perspective, what are the MAIN purposes of Configuration Management?
+
+                i) Identifying the version of software under test.
+                ii) Controlling the version of testware items.
+                iii) Developing new testware items.
+                iv) Tracking changes to testware items.
+                v) Analysing the need for new testware items.
+            </q>
+            <option1>ii, iv and v.</option1>
+            <option2>ii, iii and iv.</option2>
+            <option3>i, ii and iv.</option3>
+            <option4>i, iii and v.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+
+
+        <question>
+            <q>Which of the following is a MAJOR task of test planning?</q>
+            <option1>Scheduling test analysis and design tasks.</option1>
+            <option2>Initiating corrective actions.</option2>
+            <option3>Monitoring progress and test coverage.</option3>
+            <option4>Measuring and analyzing results..</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+
+        <question>
+            <q>Which of the following BEST describes the difference between an inspection and a walkthrough?</q>
+            <option1>Both inspections and walkthroughs are led by the author.</option1>
+            <option2>An inspection is led by a moderator and a walkthrough is led by the author.</option2>
+            <option3>Both inspections and walkthroughs are led by a trained moderator.</option3>
+            <option4>A walkthrough is led by the author. The author is not present during inspections.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Where may functional testing be performed ?</q>
+            <option1>A. At system and acceptance testing levels only.</option1>
+            <option2>B. At all test levels.</option2>
+            <option3>C. At all levels above integration testing.</option3>
+            <option4>D. At the acceptance testing level only.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>What is the MAIN objective when reviewing a software deliverable ?</q>
+            <option1>A. To identify potential application failures by use of a test specification.</option1>
+            <option2>B. To identify defects in any software work product.</option2>
+            <option3>C. To identify spelling mistakes in a requirements specification.</option3>
+            <option4>D. To identify standards inconsistencies in the code</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Who would USUALLY perform debugging activities ?</q>
+            <option1>A. Developers.</option1>
+            <option2>B. Analyst.</option2>
+            <option3>C. Tester.</option3>
+            <option4>D. Incident Managers. </option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+
+        <question>
+            <q>Which of the following would you NOT usually find on a software incident report ?</q>
+            <option1>A. The name and/or organisational position of the person raising the problem.</option1>
+            <option2>B. Version of the Software Under Test.</option2>
+            <option3>C. Suggestions as to how to fix the problem.</option3>
+            <option4>D. Actual and expected results. </option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following defines the expected results of a test ?</q>
+            <option1>A. Test case specification.</option1>
+            <option2>B. Test design specification.</option2>
+            <option3>C. Test procedure specification.</option3>
+            <option4>D.  Test Results. </option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+
+        <question>
+            <q>Some tools are geared more for developer use. For the 5 tools listed, which statement BEST details those for developers ?
+                i) Performance testing tools.
+                ii) Coverage measurement tools.
+                ii) Test comparators.
+                iv) Dynamic analysis tools.
+                v) Incident management tools.
+            </q>
+            <option1>A. i, iii. and iv. are more for developers.</option1>
+            <option2>B. ii. and iv. are more for developers.</option2>
+            <option3>C. ii, iii. and iv. are more for developers.</option3>
+            <option4>D. ii. and iii. are more for developers.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+
+        <question>
+            <q>Which of the following is correct?</q>
+            <option1>A. Impact analysis assesses the effect on the system of a defect found in regression testing.</option1>
+            <option2>B. Impact analysis assesses the effect of a new person joining the regression test team.</option2>
+            <option3>C. Impact analysis assesses whether or not a defect found in regression testing has been fixed correctly.</option3>
+            <option4>D. Impact analysis assesses the effect of a change to the system to determine how much regression testing to do.</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+
+        <question>
+            <q>The ___________ Testing will be performed by the people at client own locations</q>
+            <option1>A. Alpha testing.</option1>
+            <option2>B. Field testing.</option2>
+            <option3>C. Performance testing.</option3>
+            <option4>D. System testing.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+
+        <question>
+            <q>Which of the following is the standard for the Software product quality ?</q>
+            <option1>A. ISO 1926.</option1>
+            <option2>B. ISO 829.</option2>
+            <option3>C. ISO 1012.</option3>
+            <option4>D. ISO 1028.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+
+
+
+        <question>
+            <q>Which is not a black box testing technique</q>
+            <option1>A. Equivalence partition.</option1>
+            <option2>B. Decision tables.</option2>
+            <option3>C. Transaction diagrams.</option3>
+            <option4>D. Decision testing.</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>Find the mismatch</q>
+            <option1>A. Test data preparation tools – Manipulate Data bases.</option1>
+            <option2>B. Test design tools – Generate test inputs.</option2>
+            <option3>C. Requirement management tools – Enables individual tests to be traceable.</option3>
+            <option4>D. Configuration management tools – Check for consistence.</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>Use cases can be performed to test</q>
+            <option1>A. Performance testing.</option1>
+            <option2>B. Unit testing.</option2>
+            <option3>C. Business scenarios.</option3>
+            <option4>D. Static testing.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Purpose of test design technique is</q>
+            <option1>A. Identifying test conditions only, not Identifying test cases.</option1>
+            <option2>B. Not Identifying test conditions, Identifying test cases only.</option2>
+            <option3>C. Identifying test conditions and Identifying test cases.</option3>
+            <option4>D. Identifying test conditions or Identifying test cases.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>One person has been dominating the current software process improvement meeting.
+                Which of the following techniques should the facilitator use to bring other team
+                members into the discussion?</q>
+            <option1>A. Confront the person and ask that other team members be allowed to express their opinions.</option1>
+            <option2>B. Wait for the person to pause, acknowledge the person’ s opinion, and ask for someone else’ s opinion.</option2>
+            <option3>C. Switch the topic to an issue about which the person does not have a strong opinion.</option3>
+            <option4>D. Express an opinion that differs from the person’ s opinion in order to encourage others to express their ideas.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Stochastic testing using statistical information or operational profiles uses the following method</q>
+            <option1>A. Heuristic testing approach.</option1>
+            <option2>B. Methodical testing approach.</option2>
+            <option3>C. Model based testing approach.</option3>
+            <option4>D. Process or standard compliant testing approach.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>A software model that can’t be used in functional testing</q>
+            <option1>A. Process flow model.</option1>
+            <option2>B. State transaction model.</option2>
+            <option3>C. Menu structure model.</option3>
+            <option4>D. Plain language specification model.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Arc testing is known as</q>
+            <option1>A. Branch testing.</option1>
+            <option2>B. Agile testing.</option2>
+            <option3>C. Beta testing.</option3>
+            <option4>D. Ad-hoc testing.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+
+
+    </category>
+    <category name="two">
+        <question>
+            <q>As part of which test process do you determine the exit criteria ?</q>
+            <option1>A. Test planning.</option1>
+            <option2>B. Evaluating exit criteria and reporting.</option2>
+            <option3>C. Test closure.</option3>
+            <option4>D. Test control.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following is a MAJOR task of test implementation and execution ?</q>
+            <option1>A. Measuring and analyzing results.</option1>
+            <option2>B. Reporting discrepancies as incidents.</option2>
+            <option3>C. Identifying test conditions or test requirements.</option3>
+            <option4>D. Assessing if more tests are needed.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>What is beta testing?</q>
+            <option1>A. Testing performed by potential customers at the developers location.</option1>
+            <option2>B. Testing performed by potential customers at their own locations.</option2>
+            <option3>C. Testing performed by product developers at the customer's location.</option3>
+            <option4>D. Testing performed by product developers at their own locations.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Given the following fragment of code, how many tests are required for 100% decision coverage?
+                if width > length
+                then
+                biggest_dimension = width if height > width
+                then
+                biggest_dimension = height end_if
+                else
+                biggest_dimension = length if height > length
+                then
+                biggest_dimension = height end_if
+                end_if</q>
+            <option1>A. 3 </option1>
+            <option2>B. 4</option2>
+            <option3>C. 2</option3>
+            <option4>D. 1</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>You have designed test cases to provide 100% statement and 100% decision coverage for the following fragment of code.
+                if width > length
+                then
+                biggest_dimension = width else
+                biggest_dimension = length end_if
+
+                The following has been added to the bottom of the code fragment above.
+
+                print "Biggest dimension is " &amp; biggest_dimension print "Width: " &amp; width
+                print "Length: " &amp; length
+
+                How many more test cases are required?</q>
+            <option1>A. One more test case will be required for 100 % decision coverage.</option1>
+            <option2>B. Two more test cases will be required for 100 % statement coverage, one of which will be used to provide 100% decision coverage.</option2>
+            <option3>C. None, existing test cases can be used.</option3>
+            <option4>D. One more test case will be required for 100" statement coverage.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>A thermometer measures temperature in whole degrees only. If the temperature falls below 18 degrees, the heating is switched off. It is switched on again when the temperature reaches 21 degrees. What are the best values in degrees to cover all equivalence partitions?
+            </q>
+            <option1>A. 15, 19 and 25.</option1>
+            <option2>B. 17, 18 and19.</option2>
+            <option3>C. 18, 20 and22.</option3>
+            <option4>D. 16, 26 and 32.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Which activity in the fundamental test process creates test suites for efficient test execution ?</q>
+            <option1>A. Implementation and execution.</option1>
+            <option2>B. Planning and control.</option2>
+            <option3>C. Analysis and design.</option3>
+            <option4>D. Test closure.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following is TRUE ?</q>
+            <option1>A. Confirmation testing is testing fixes to a set of defects and Regression testing is testing to establish whether any defects have been introduced as a result of changes.</option1>
+            <option2>B. Confirmation testing is testing to establish whether any defects have been introduced as a result of changes and Regression testing is testing fixes to a set of defects.
+            </option2>
+            <option3>C. Confirmation testing and Regression testing are both testing to establish whether any defects have been introduced as a result of changes.
+            </option3>
+            <option4>. Confirmation testing and Regression testing are both testing fixes to a set of defects.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following are characteristic of regression testing ?
+
+                i) Regression testing is run ONLY once
+                ii) Regression testing is used after fixes have been made
+                iii) Regression testing is often automated
+                iv) Regression tests need not be maintained
+            </q>
+            <option1>A. ii, iv.</option1>
+            <option2>B. ii, iii.</option2>
+            <option3>C. i, iii, iv.</option3>
+            <option4>D. iii.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>When should configuration management procedures be implemented?</q>
+            <option1>A. During test planning.</option1>
+            <option2>B. During test analysis.</option2>
+            <option3>C. During test execution.</option3>
+            <option4>D. When evaluating exit criteria</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+
+        <question>
+            <q>The ___________ technique can be used to achieve input and output coverage </q>
+            <option1>A. Boundary value analysis.</option1>
+            <option2>B. Equivalence partitioning.</option2>
+            <option3>C. Decision table testing.</option3>
+            <option4>D. State transition testing</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+
+        <question><q>The __________ testing is performed at the developing organization’s site </q>
+            <option1>A. Unit testing.</option1>
+            <option2>B. Regression testing.</option2>
+            <option3>C. Alpha testing.</option3>
+            <option4>D. Integration testing</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+
+        <question><q>What is the main purpose of Informal review </q>
+            <option1>A. Inexpensive way to get some benefit.</option1>
+            <option2>B. Find defects.</option2>
+            <option3>C. Learning, gaining understanding, effect finding.</option3>
+            <option4>D. Discuss, make decisions, solve technical problems</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question><q> _______ includes both Black box and White Box Testing features</q>
+            <option1>A. Gray Box Testing.</option1>
+            <option2>B. Hybrid Testing.</option2>
+            <option3>C. A. and B.</option3>
+            <option4>D. None</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question><q>Which is not a Component testing</q>
+            <option1>A. Check the memory leaks.</option1>
+            <option2>B. Check the robustness.</option2>
+            <option3>C. Check the branch coverage.</option3>
+            <option4>D. Check the decision tables</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question><q>The software engineer's role in tool selection is</q>
+            <option1>A. To identify, evaluate, and rank tools, and recommend tools to management.</option1>
+            <option2>B. To determine what kind of tool is needed, then find it and buy it.</option2>
+            <option3>C. To initiate the tool search and present a case to management.</option3>
+            <option4>D. To identify, evaluate and select the tools</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question><q>Which is not the fundamental test process</q>
+            <option1>A. Planning and control.</option1>
+            <option2>B. Test closure activities.</option2>
+            <option3>C. Analysis and design.</option3>
+            <option4>D. None</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question><q>The purpose of exit criteria is ?</q>
+            <option1>A. Define when to stop testing.</option1>
+            <option2>B. End of test level.</option2>
+            <option3>C. When a set of tests has achieved a specific pre condition.</option3>
+            <option4>D. All of the above</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question><q>The ________ and ________ are used within individual workbenches to produce the right output products.</q>
+            <option1>A. Tools and techniques.</option1>
+            <option2>B. Procedures and standards.</option2>
+            <option3>C. Processes and walkthroughs.</option3>
+            <option4>D. Reviews and update</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question><q>Which is not the software characteristics</q>
+            <option1>A. Reliability.</option1>
+            <option2>B. Usability.</option2>
+            <option3>C. Scalability.</option3>
+            <option4>D. Maintainability.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+
+    </category>
+    <category name="three">
+
+        <question>
+            <q>Verification involves which of the following :-
+                i. Helps to check the Quality of the built product
+                ii. Helps to check that we have built the right product. iii. Helps in developing the product
+                iv. Monitoring tool wastage and obsoleteness.
+            </q>
+            <option1>A. Options i,ii,iii,iv are true</option1>
+            <option2>B. i is true and ii,iii,iv are false</option2>
+            <option3>C. i,ii,iii are true and iv is false</option3>
+            <option4>D. ii is true and i,iii,iv are false</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>A wholesaler sells printer cartridges. The minimum order quantity is 5. There is a 20% discount for orders of 100 or more printer cartridges. You have been asked to prepare test cases using various values for the number of printer cartridges ordered. Which of the following groups contain three test inputs that would be generated using Boundary Value Analysis?
+            </q>
+            <option1>A. 5, 6, 20</option1>
+            <option2>B. 4, 5, 80</option2>
+            <option3>C. 4, 5, 99</option3>
+            <option4>D. 1, 20, 100</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following activities should be performed during the selection and implementation of a testing tool?
+
+                i) Investigate the organisation's test process.
+                ii) Conduct a proof of concept.
+                iii) Implement the selected tool on a project behind schedule to save time.
+                iv) Identify coaching and mentoring requirements for the use of the selected tool.
+            </q>
+            <option1>A. i, ii, iii.</option1>
+            <option2>B. ii, iii, iv.</option2>
+            <option3>C. i, iii, iv.</option3>
+            <option4>D. i, ii, iv.</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>What is the MAIN benefit of designing tests early in the life cycle?</q>
+            <option1>A. It is cheaper than designing tests during the test phases.</option1>
+            <option2>B. It helps prevent defects from being introduced into the code.</option2>
+            <option3>C. Tests designed early are more effective than tests designed later.</option3>
+            <option4>D. It saves time during the testing phases when testers are busy.
+            </option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following benefits are MOST likely to be achieved by using test tools?
+
+                i) Easy to access information about tests and testing.
+                ii) Reduced maintenance of testware.
+                iii) Easy and cheap to implement.
+                iv) Greater consistency of tests.
+            </q>
+            <option1>A. ii and iv</option1>
+            <option2>B. ii and iii</option2>
+            <option3>C. i and iv</option3>
+            <option4>D. i and iii</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>What is the KEY difference between preventative and reactive approaches to testing?</q>
+            <option1>A. Preventative tests and reactive tests are designed as early as possible.
+            </option1>
+            <option2>B. Preventative tests are designed early; reactive tests are designed after the software has been produced.</option2>
+            <option3>C. Preventative testing is always analytical; reactive testing is always heuristic.</option3>
+            <option4>D. Preventative tests are designed after the software has been produced; reactive tests are designed early in response to review comments.
+            </option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>What is the purpose of exit criteria?
+            </q>
+            <option1>A. To define when a test level is complete.</option1>
+            <option2>B. To determine when a test has completed.</option2>
+            <option3>C. To identify when a software system should be retired.</option3>
+            <option4>D. To determine whether a test has passed.
+            </option4>
+            <correctAnswer>1</correctAnswer>
+        </question><question>
+        <q>What determines the level of risk?</q>
+        <option1>A. The cost of dealing with an adverse event if it occurs.</option1>
+        <option2>B. The probability that an adverse event will occur.</option2>
+        <option3>C. The amount of testing planned before release of a system.</option3>
+        <option4>D. The likelihood of an adverse event and the impact of the event.</option4>
+        <correctAnswer>4</correctAnswer>
+    </question>
+        <question>
+            <q>With which of the following categories is a test comparator tool USUALLY associated?</q>
+            <option1>A. Tool support for performance and monitoring.</option1>
+            <option2>B. Tool support for static testing.</option2>
+            <option3>C. Tool support for test execution and logging.</option3>
+            <option4>D. Tool support for the management of testing and tests.
+            </option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Which activities form part of test planning?
+
+                i) Developing test cases.
+                ii) Defining the overall approach to testing. iii) Assigning resources.
+                iv) Building the test environment
+                v) Writing test conditions.
+            </q>
+            <option1>A. i, ii &amp; iv are true, iii &amp; v are false.</option1>
+            <option2>B. ii &amp; iii are true, i, iv &amp; v are false.</option2>
+            <option3>C. iv &amp; v are true, i, ii &amp; iii are false.</option3>
+            <option4>D. i, ii &amp; iii are true iv &amp; v are false.</option4>
+            <correctAnswer>3</correctAnswer>
+
+        </question>
+        <question>
+            <q>Match the following terms and statements.
+
+                1.Decision Table Testing
+                2.Decision Testing
+                3.State Transition Testing
+                4.Exploratory Testing
+
+                W. Testing carried out w boxes to achieve specific test objectives, possibly to complement structured testing.
+                X. A test technique used which may be used to verify different system re depending on current conditions or previous history.
+                Y. A test technique which combines combinations of inputs that might not otherwise have been exercised during testing.
+                Z. A form of control flow testing based on decision outcomes.</q>
+            <option1>A. 1Y, 2Z, 3X, 4W.</option1>
+            <option2>B. 1X ,2W, 3Z, 4Y.</option2>
+            <option3>C. 1Z, 2X, 3W, 4Y.</option3>
+            <option4>D. 1Z, 2Y, 3X, 4W.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>
+                The principle of Cyclomatic complexity, considering L as edges or links, N as nodes, P as independent paths
+            </q>
+            <option1>A. L-N +2P.</option1>
+            <option2>B. N-L +2P.</option2>
+            <option3>C. N-L +P .</option3>
+            <option4>D. N-L +P .</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>
+                FPA is used to
+            </q>
+            <option1>A. To measure the functional requirements of the project.</option1>
+            <option2>B. To measure the size of the functionality of an Information system.</option2>
+            <option3>C. To measure the functional testing effort.</option3>
+            <option4>D. To measure the functional flow.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>
+                A _____ is the step-by-step method followed to ensure that standards are met
+            </q>
+            <option1>A.SDLC.</option1>
+            <option2>B. Project Plan.</option2>
+            <option3>C. Policy.</option3>
+            <option4>D.Procedure.</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>
+                Which is not a test Oracle
+            </q>
+            <option1>A. The existing system (For a bench mark)</option1>
+            <option2>B. The code.</option2>
+            <option3>C. Individual’s knowledge.</option3>
+            <option4>D. User manual.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>
+                PDCA is known as
+            </q>
+            <option1>A. Plan, Do, Check, Act</option1>
+            <option2>B. Plan, Do, Correct, Act.</option2>
+            <option3>C. Plan, Debug, Check, Act.</option3>
+            <option4>D. Plan, Do, Check, Accept.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>
+                Which is the non-functional testing
+            </q>
+            <option1>A. Performance testing.</option1>
+            <option2>B. Unit testing.</option2>
+            <option3>C. Regression testing.</option3>
+            <option4>D. Sanity testing.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>
+                A Test Plan Outline contains which of the following:
+                i. Test Items
+                ii. Test Scripts
+                iii. Test Deliverables
+                iv. Responsibilities
+
+            </q>
+            <option1>A. i,ii,iii are true and iv is false.</option1>
+            <option2>B. i,iii,iv are true and ii is false.</option2>
+            <option3>C. ii,iii are true and i and iv are false.</option3>
+            <option4>D. i,ii are false and iii , iv are true.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>
+                Testing where in we subject the target of the test , to varying workloads to measure and evaluate the performance
+                behaviors and ability of the target and of the test to continue to function properly under these different workloads.
+            </q>
+            <option1>A. Load Testing.</option1>
+            <option2>B. Integration Testing.</option2>
+            <option3>C. System Testing.</option3>
+            <option4>D. Usability Testing.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>
+                Which of the following is the task of a Tester?
+                i. Interaction with the Test Tool Vendor to identify best ways to leverage test tool on the project.
+                ii. Prepare and acquire Test Data
+                iii. Implement Tests on all test levels, execute and log the tests.
+                iv. Create the Test Specifications
+
+            </q>
+            <option1>A. i, ii, iii is true and iv is false.</option1>
+            <option2>B. ii,iii,iv is true and i is false.</option2>
+            <option3>C. i is true and ii,iii,iv are false.</option3>
+            <option4>D. iii and iv is correct and i and ii are incorrect.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+    </category>
+    <category name="four">
+        <question>
+            <q>Which type of test design techniques does the following statement best describe a procedure to derive test cases based on the specification of a component ? </q>
+            <option1>A. Black Box Techniques.</option1>
+            <option2>B. White Box Techniques.</option2>
+            <option3>C. Glass Box Techniques.</option3>
+            <option4>D. Experience Based Techniques.
+            </option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>For which of the following would a static analysis tool be MOST useful ?</q>
+            <option1>A. Supporting reviews.</option1>
+            <option2>B. Validating models of the software.</option2>
+            <option3>C. Testing code executed in a special test harness.</option3>
+            <option4>D. Enforcement of coding standards.
+            </option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following types of defects is use case testing MOST LIKELY to uncover?
+
+                i) Defects in the process flows during real-world use of the system.
+                ii) Defects in the interface parameters in integration testing.
+                iii) Integration defects caused by the interaction and interference of different components.
+                iv) Defects in the system as it transitions between one state and another.
+            </q>
+            <option1>A. ii, iii.</option1>
+            <option2>B. i, iii.</option2>
+            <option3>C. iii, iv.</option3>
+            <option4>D. i, ii</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following is MOST important in the selection of a test approach?</q>
+            <option1>A. Availability of tools to support the proposed techniques.</option1>
+            <option2>B. The budget allowed for training in proposed techniques.</option2>
+            <option3>C. Available skills and experience in the proposed techniques.</option3>
+            <option4>D. The willingness of the test team to learn new techniques.
+            </option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q> Which of the following is a benefit of test independence ?</q>
+            <option1>A. It does not require familiarity with the code.</option1>
+            <option2>B. It is cheaper than using developers to test their own code.</option2>
+            <option3>C. It avoids author bias in defining effective tests.</option3>
+            <option4>D. Testers are better at finding defects than developers.
+            </option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following is MOST characteristic of specification based (black-box) techniques?</q>
+            <option1>A. Test cases can be easily automated.</option1>
+            <option2>B. Test cases are independent of each other.</option2>
+            <option3>C. Test cases are derived systematically from models of the system .</option3>
+            <option4>D. Test cases are derived systematically from the delivered code.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question><question>
+        <q>Which of the following combinations correctly describes a valid approach to component testing:
+            i) Functional testing of the component in isolation.
+            ii) Structure-based testing of the code without recording incidents.
+            iii) Automated tests that are run until the component passes.
+            iv) Functional testing of the interfaces between modules.</q>
+        <option1>A. i and ii.</option1>
+        <option2>B. I, ii and iii</option2>
+        <option3>C. iii.</option3>
+        <option4>D. ii and iv</option4>
+        <correctAnswer>2</correctAnswer>
+    </question>
+        <question>
+            <q>Which of the following is a purpose of the review planning phase?</q>
+            <option1>A. Log defects.</option1>
+            <option2>B. Explain the documents to the participants.</option2>
+            <option3>C. Gather metrics.</option3>
+            <option4>D. Allocate the individual roles.</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>A defect arrival rate curve:</q>
+            <option1>A. Shows the number of newly discovered defects per unit time</option1>
+            <option2>B. Shows the number of open defects per unit time.</option2>
+            <option3>C. Shows the cumulative total number of defects found up to this time.</option3>
+            <option4>D. Any of these, depending on the company.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Which is the best definition of complete testing:
+            </q>
+            <option1>A. You have discovered every bug in the program.</option1>
+            <option2>B. You have tested every statement, branch, and combination of branches in the program.</option2>
+            <option3>C. You have completed every test in the test plan.</option3>
+            <option4>D. You have reached the scheduled ship date.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>What can static analysis NOT find
+            </q>
+            <option1>A. The use of a variable before it has been defined.</option1>
+            <option2>B. Unreachable ("dead") code.</option2>
+            <option3>C. Memory leaks.</option3>
+            <option4>D. Array bound violations.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>White Box Techniques are also called as:
+            </q>
+            <option1>A. Structural Testing.</option1>
+            <option2>B. Design Based Testin.</option2>
+            <option3>C. Error Guessing Technique.</option3>
+            <option4>D. Experience Based Technique.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Reviewing the test Basis is a part of which phase
+            </q>
+            <option1>A. Test Analysis and Design.</option1>
+            <option2>B. Test Implementation and execution.</option2>
+            <option3>C. Test Closure Activities.</option3>
+            <option4>D. Evaluating exit criteria and reporting.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Component Testing is also called as :-
+                i. Unit Testing
+                ii. Program Testing
+                iii. Module Testing
+                iv. System Component Testing .
+
+            </q>
+            <option1>A. i,ii,iii are true and iv is false.</option1>
+            <option2>B. i,ii,iii,iv are false.</option2>
+            <option3>C. i,ii,iv are true and iii is false.</option3>
+            <option4>D. all of above is true.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following is not a major task of Exit criteria?
+            </q>
+            <option1>A. Checking test logs against the exit criteria specified in test planning.</option1>
+            <option2>B. Logging the outcome of test execution.</option2>
+            <option3>C. Assessing if more tests are needed.</option3>
+            <option4>D. Writing a test summary report for stakeholders.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following is true about Formal Review or Inspection:-
+                i. Led by Trained Moderator (not the author).
+                ii. No Pre Meeting Preparations
+                iii. Formal Follow up process.
+                iv. Main Objective is to find defects
+
+            </q>
+            <option1>A. ii is true and i,iii,iv are false.</option1>
+            <option2>B. i,iii,iv are true and ii is false.</option2>
+            <option3>C. i,iii,iv are false and ii is true.</option3>
+            <option4>D. iii is true and I,ii,iv are false.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>The Phases of formal review process is mentioned below arrange them in the correct order.
+                i. Planning
+                ii. Review Meeting
+                iii. Rework
+                iv. Individual Preparations v. Kick Off
+                vi. Follow Up
+
+            </q>
+            <option1>A. i,ii,iii,iv,v,vi.</option1>
+            <option2>B. vi,i,ii,iii,iv,v.</option2>
+            <option3>C. i,v,iv,ii,iii,vi.</option3>
+            <option4>D. i,ii,iii,v,iv,vi.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Testing activity which is performed to expose defects in the interfaces
+                and in the interaction between integrated components is :
+
+            </q>
+            <option1>
+                A. System Level Testing.</option1>
+            <option2>B. Integration Level Testing.</option2>
+            <option3>C. Unit Level Testing.</option3>
+            <option4>D. Component Testing.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Methodologies adopted while performing Maintenance Testing:-
+
+            </q>
+            <option1>A. Breadth Test and Depth Test.</option1>
+            <option2>B. Re-testing.</option2>
+            <option3>C. Confirmation Testing.</option3>
+            <option4>D. Sanity Testing.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>The Switch is switched off once the temperature falls below 18 and then it is
+                turned on when the temperature is more than 21. When the temperature is more than
+                21. Identify the Equivalance values which belong to the same class.
+
+            </q>
+            <option1>A. 12,16,22.</option1>
+            <option2>B. 24,27,17.</option2>
+            <option3>C. 22,23,24.</option3>
+            <option4>D. 14,15,19.</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+    </category>
+    <category name="five">
+        <question>
+            <q>Complete statement and branch coverage means:</q>
+            <option1>A. That you have tested every statement in the program.</option1>
+            <option2>B. That you have tested every statement and every branch in the program.</option2>
+            <option3>C. That you have tested every IF statement in the program.</option3>
+            <option4>D. That you have tested every combination of values of IF statements in the program</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>There are several risks of managing your project's schedule with a statistical reliability model. These include (choose one or more of the following):</q>
+            <option1>A. Testers spend more energy early in the product trying to find bugs than preparing to do the rest of the project's work more efficiently</option1>
+            <option2>B. Managers might not realize that the testing effort is ineffective, late in the project, because they expect a low rate of bug finding, so the low rate achieved doesn't alarm them.</option2>
+            <option3>C. It can increase the end-of-project pressure on testers to not find bugs, or to not report bugs.</option3>
+            <option4>D. All of the above</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>Reviews, static analysis and dynamic testing have the same objective
+            </q>
+            <option1>A. Identifying defects.</option1>
+            <option2>B. Fixing defects.</option2>
+            <option3>C. A. and B</option3>
+            <option4>D. None of the above</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>We can achieve complete statement coverage but still miss bugs because:</q>
+            <option1>A. The failure occurs only if you reach a statement taking the TRUE branch of an IF statement, and you got to the statement with a test that passed through the FALSE branch.</option1>
+            <option2>B. The failure depends on the program's inability to handle specific data values, rather than on the program's flow of control.</option2>
+            <option3>C. We are not required to test code that customers are unlikely to execute.</option3>
+            <option4>D. All of the above</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Measurement dysfunction is a problem because:
+            </q>
+            <option1>A. Even though the numbers you look at appear better, to achieve these numbers, people are doing other aspects of their work much less well.</option1>
+            <option2>B. We don't know how to measure a variable (our measurement is dysfunctional) and so we don't know how to interpret the result.</option2>
+            <option3>C. You are measuring the wrong thing and thus reaching the wrong conclusions.
+            </option3>
+            <option4>D. All of the above.</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q> Important consequences of the impossibility of complete testing are (Choose one or more answers):</q>
+            <option1>A. We can never be certain that the program is bug free.
+            </option1>
+            <option2>B. We have no definite stopping point for testing, which makes it easier for some managers to argue for very little testing.</option2>
+            <option3>C. We have no easy answer for what testing tasks should always be required, because every task takes time that could be spent on other high importance tasks.
+            </option3>
+            <option4>D. All of the above.</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <q>Poor software characteristics are
+            </q>
+            <option1>A. Only Project risks</option1>
+            <option2>B. Only Product risks</option2>
+            <option3>C. Project risks and Product risks</option3>
+            <option4>D. Project risks or Product risks
+            </option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>System testing should investigate
+            </q>
+            <option1>A. Non-functional requirements only not Functional requirements</option1>
+            <option2>B. Functional requirements only not non-functional requirements</option2>
+            <option3>C. Non-functional requirements and Functional requirements</option3>
+            <option4>D. Non-functional requirements or Functional requirements</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>Contract and regulation testing is a part of</q>
+            <option1>A. System testing</option1>
+            <option2>B. Acceptance testing</option2>
+            <option3>C. Integration testing</option3>
+            <option4>D. Smoke testing</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Find the correct flow of the phases of a formal review
+            </q>
+            <option1>A. Planning, Review meeting, Rework, Kick off</option1>
+            <option2>B. Planning, Individual preparation, Kick off, Rework</option2>
+            <option3>C. Planning, Review meeting, Rework, Follow up</option3>
+            <option4>D. Planning, Individual preparation, Follow up, Kick off</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+
+        <question>
+            <q>What is an equivalence partition (also known as an equivalence class)?
+
+            </q>
+            <option1>A. A set of test cases for testing classes of objects</option1>
+            <option2>B. An input or output range of values such that only one value in the range becomes a test case</option2>
+            <option3>C. An input or output range of values such that each value in the range becomes a test case
+            </option3>
+            <option4>D. An input or output range of values such that every tenth value in the range becomes a test case</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>In a Examination a candidate has to score minimum of 24 marks inorder to clear the exam. The maximum that he can score is 40 marks. Identify the Valid Equivalance values if the student clears the exam.
+
+            </q>
+            <option1>A. 22,23,26</option1>
+            <option2>B. 21,39,40</option2>
+            <option3>C. 29,30,31
+            </option3>
+            <option4>D. 0,15,22</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>One of the fields on a form contains a text box which accepts alpha numeric values. Identify the Valid Equivalence class
+
+            </q>
+            <option1>A. BOOK</option1>
+            <option2>B. Book</option2>
+            <option3>C. Boo01k
+            </option3>
+            <option4>D. book</option4>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <q>A Person who documents all the issues, problems and open points that were identified during a formal review
+
+            </q>
+            <option1>A. Moderator.</option1>
+            <option2>B. Scribe</option2>
+            <option3>C. Author
+            </option3>
+            <option4>D. Manager</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>A Type of functional Testing, which investigates the functions relating to detection of threats, such as virus from malicious outsiders.
+
+            </q>
+            <option1>A. Security Testing</option1>
+            <option2>B. Recovery Testing</option2>
+            <option3>C. Performance Testing</option3>
+            <option4>D. Functionality Testing</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Designing the test environment set-up and identifying any required infrastructure and tools are a part of which phase
+
+            </q>
+            <option1>A. Test Implementation and execution</option1>
+            <option2>B. Test Analysis and Design</option2>
+            <option3>C. Evaluating the Exit Criteria and reporting
+            </option3>
+            <option4>D. Test Closure Activities</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following statements regarding static testing is false:
+
+            </q>
+            <option1>A. Static testing requires the running of tests through the code</option1>
+            <option2>B. Static testing includes desk checking</option2>
+            <option3>C. Static testing includes techniques such as reviews and inspections
+            </option3>
+            <option4>D. Static testing can give measurements such as cyclomatic complexity</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Who are the persons involved in a Formal Review :-
+                i. Manager
+                ii. Moderator
+                iii. Scribe / Recorder iv. Assistant Manager
+
+            </q>
+            <option1>A. i,ii,iii,iv are true</option1>
+            <option2>B. i,ii,iii are true and iv is false.</option2>
+            <option3>C. ii,iii,iv are true and i is false.
+            </option3>
+            <option4>D. i,iv are true and ii, iii are false.</option4>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <q>Link Testing is also called as :
+
+            </q>
+            <option1>A. Component Integration testing</option1>
+            <option2>B. Component System Testing</option2>
+            <option3>C. Component Sub System Testing
+            </option3>
+            <option4>D. Maintenance testing</option4>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <q>Which of the following is not a part of the Test Implementation and Execution Phase
+
+            </q>
+            <option1>A. Creating test suites from the test cases</option1>
+            <option2>B. Executing test cases either manually or by using test execution tools</option2>
+            <option3>C. Comparing actual results</option3>
+            <option4>D. Designing the Tests</option4>
+            <correctAnswer>4</correctAnswer>
+        </question>
+    </category>
+</questions>
